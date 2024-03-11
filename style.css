@@ -1,0 +1,22 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: "Poppins", sans-serif;
+}
+
+.heading-container h4 {
+  margin: 1em 0 0em 0;
+  font-weight: 600;
+  font-size: 40px;
+  letter-spacing: 5px;
+}
+
+.options-container {
+  margin: 2em 0 2em 0;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 1em;
+  text-align: center;
+}
